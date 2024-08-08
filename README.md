@@ -2,7 +2,7 @@
 
 
 ---
-## **Aula Prática:** Trabalhando com dados de Estações Meteorológicas
+## **Aula Prática:** Trabalhando com Dados de Estações Meteorológicas
 
 ---
 
@@ -40,8 +40,8 @@
 1.   Instação das bibliotecas
 2.   Importação das biblotecas
 3.   Baixando os dados das estações do CEMADEN
-4.   Conhecendo os dados da estação pluviOmétrica
-5.   Mapa com a localização da estação pluviômétrica
+4.   Conhecendo os dados da estação pluviométrica
+5.   Mapa com a localização da estação pluviométrica
 6.   Gráfico da quantidade de precipitação por dia
 7.   Gráfico da quantidade de precipitação por hora
 
