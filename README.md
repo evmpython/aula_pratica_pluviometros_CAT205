@@ -2,12 +2,12 @@
 
 
 ---
-## **Aula Prática:** Trabalhando com Dados de Estações Meteorológicas
+## **Aula Prática:** Trabalhando com Dados de Estações Pluviométricas
 
 ---
 
 
-**OBJETIVO:** Nesta aula prática aprenderemos como baixar e plotar gráficos dos dados das **Estações Meteorológicas de Superfície (EMS)** do **Centro Nacional de Monitoramento e Alertas de Desastres Naturais (CEMADEN)**.
+**OBJETIVO:** Nesta aula prática aprenderemos como baixar e plotar gráficos dos dados das **Estações Meteorológicas de Superfície (EMS)** do [**Centro Nacional de Monitoramento e Alertas de Desastres Naturais (CEMADEN)**](https://www.gov.br/cemaden/pt-br).
 
 ---
 
@@ -37,7 +37,7 @@
 
 **PROCEDIMENTO REALIZADO:** Os seguintes procedimentos são realizados nesse código:
 
-1.   Instação das bibliotecas
+1.   Instalação das bibliotecas
 2.   Importação das biblotecas
 3.   Baixando os dados das estações do CEMADEN
 4.   Conhecendo os dados da estação pluviométrica
@@ -60,6 +60,6 @@
 
 
 - **Realizado por:** Enrique V. Mattos - 08/08/2024
-- **Atualizado por:** Enrique V. Mattos - 08/08/2024
+- **Atualizado por:** Enrique V. Mattos - 30/09/2024
 
 ---
